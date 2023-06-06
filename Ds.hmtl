@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfolio de Designer</title>
+  <link rel="stylesheet" href="styles.css"> <!-- Inclure votre fichier CSS externe ici -->
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#accueil">Accueil</a></li>
+        <li><a href="#projets">Projets</a></li>
+        <li><a href="#a-propos">À Propos</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="accueil">
+    <h1>Bienvenue sur mon portfolio</h1>
+    <p>Je suis un designer passionné par la création visuelle et l'expérience utilisateur.</p>
+    <!-- Ajoutez ici des images, vidéos ou autre contenu pour mettre en valeur votre travail -->
+  </section>
+
+  <section id="projets">
+    <h2>Mes Projets</h2>
+    <!-- Ajoutez ici des exemples de vos projets avec des images, descriptions, liens, etc. -->
+  </section>
+
+  <section id="a-propos">
+    <h2>À Propos de Moi</h2>
+    <p>Parlez de votre parcours, de votre expérience et de votre passion pour le design.</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contactez-moi</h2>
+    <p>Vous pouvez me contacter à l'adresse e-mail suivante : <a href="mailto:contact@exemple.com">contact@exemple.com</a></p>
+    <!-- Ajoutez ici un formulaire de contact ou d'autres moyens de vous joindre -->
+  </section>
+
+  <footer>
+    <p>&copy; 2023 Mon Portfolio de Designer. Tous droits réservés.</p>
+  </footer>
+</body>
+</html>
